@@ -376,6 +376,7 @@
   background-color: rgba(0, 0, 0, 0.7);
   background-blend-mode: overlay;
   opacity: 0.8;
+  margin-bottom: 70px !important;
 }
 
 #service-sect2 input {
